@@ -30,7 +30,6 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Basic NLP with TensorFlow and WordCloud📄](https://www.kaggle.com/marcovasquez/basic-nlp-with-tensorflow-and-wordcloud)
 - [NLP with Disaster Tweets - EDA, Cleaning and BERT](https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert/notebook?select=tokenization.py)
 - [How to: Preprocessing when using embeddings](https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings)
--
 
 ## Datasets
 - [Indonesian News Articles Published at 2017](https://www.kaggle.com/aashari/indonesian-news-articles-published-at-2017)

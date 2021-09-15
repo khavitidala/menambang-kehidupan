@@ -13,6 +13,8 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 - [IndoNLU](https://github.com/indobenchmark/indonlu)
 - [BERT](https://github.com/google-research/bert)
+- [NLP RoadMap](https://github.com/graykode/nlp-roadmap)
+- [Indonesian Language Model](https://github.com/cahya-wirawan/indonesian-language-models)
 
 ## Artikel
 - [New pipeline for zero-shot text classification](https://discuss.huggingface.co/t/new-pipeline-for-zero-shot-text-classification/681)
@@ -33,3 +35,4 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 
 ## Datasets
 - [Indonesian News Articles Published at 2017](https://www.kaggle.com/aashari/indonesian-news-articles-published-at-2017)
+- [Indonesian News (very imbalnced)](https://github.com/andreaschandra/indonesian-news/)

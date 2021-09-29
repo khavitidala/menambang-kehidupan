@@ -7,6 +7,8 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387)
 - [Well-Read Students Learn Better: On the Importance of Pre-training Compact Models](https://arxiv.org/abs/1908.08962)
+- [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+- [Text Guide: Improving the quality of long text classification by a text selection method based on feature importance](https://arxiv.org/abs/2104.07225)
 
 
 ## Repo

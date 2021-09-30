@@ -20,6 +20,8 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 
 ## Artikel
 - [New pipeline for zero-shot text classification](https://discuss.huggingface.co/t/new-pipeline-for-zero-shot-text-classification/681)
+- [Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn](https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/)
+
 
 ## Playground
 - [A Neural Network Playground](http://playground.tensorflow.org/)
@@ -39,6 +41,3 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Indonesian News Articles Published at 2017](https://www.kaggle.com/aashari/indonesian-news-articles-published-at-2017)
 - [Indonesian News (very imbalnced)](https://github.com/andreaschandra/indonesian-news/)
 - [Dataset of Indonesian Online Newspaper](https://cloud.uncool.ai/index.php/s/mfYEAgKQoY3ebbM)
-
-## Others
-- [Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn](https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/)

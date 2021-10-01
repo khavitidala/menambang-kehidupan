@@ -17,10 +17,14 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [BERT](https://github.com/google-research/bert)
 - [NLP RoadMap](https://github.com/graykode/nlp-roadmap)
 - [Indonesian Language Model](https://github.com/cahya-wirawan/indonesian-language-models)
+- [BertViz](https://github.com/jessevig/bertviz)
+- [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 
 ## Artikel
 - [New pipeline for zero-shot text classification](https://discuss.huggingface.co/t/new-pipeline-for-zero-shot-text-classification/681)
 - [Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn](https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 
 ## Playground

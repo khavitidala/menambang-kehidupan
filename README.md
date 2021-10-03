@@ -26,6 +26,10 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [NLP Data Augmentation using 🤗 Transformers](https://towardsdatascience.com/nlp-data-augmentation-using-transformers-89a44a993bab)
+- [Various Confusion Matrix Plots](https://www.kaggle.com/agungor2/various-confusion-matrix-plots)
+- [Displaying a confusion matrix in TensorFlow](http://blog.wafrat.com/displaying-a-confusion-matrix-in-tensorflow/)
+- [Building a Multi-label Text Classifier using BERT and TensorFlow](https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d)
+- [How to Plot Model Loss During Training in TensorFlow](https://medium.com/geekculture/how-to-plot-model-loss-while-training-in-tensorflow-9fa1a1875a5)
 
 
 ## Playground

@@ -18,6 +18,7 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
 
 

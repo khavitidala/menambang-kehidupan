@@ -9,6 +9,14 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Well-Read Students Learn Better: On the Importance of Pre-training Compact Models](https://arxiv.org/abs/1908.08962)
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [Text Guide: Improving the quality of long text classification by a text selection method based on feature importance](https://arxiv.org/abs/2104.07225)
+- [How to Train BERT with an Academic Budget](https://paperswithcode.com/paper/how-to-train-bert-with-an-academic-budget)
+- [Entailment as Few-Shot Learner](https://paperswithcode.com/paper/entailment-as-few-shot-learner)
+- [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation](https://arxiv.org/abs/2104.08200)
+- [Multi-label Aspect Categorization with Convolutional Neural Networks and Extreme Gradient Boosting](https://sci-hub.se/10.1109/ICEEI47359.2019.8988898)
+- [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
+
 
 
 ## Repo
@@ -19,6 +27,7 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Indonesian Language Model](https://github.com/cahya-wirawan/indonesian-language-models)
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 
 ## Artikel
 - [New pipeline for zero-shot text classification](https://discuss.huggingface.co/t/new-pipeline-for-zero-shot-text-classification/681)
@@ -30,6 +39,10 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Displaying a confusion matrix in TensorFlow](http://blog.wafrat.com/displaying-a-confusion-matrix-in-tensorflow/)
 - [Building a Multi-label Text Classifier using BERT and TensorFlow](https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d)
 - [How to Plot Model Loss During Training in TensorFlow](https://medium.com/geekculture/how-to-plot-model-loss-while-training-in-tensorflow-9fa1a1875a5)
+- [Multi-label Text Classification with BERT and PyTorch Lightning](https://curiousily.com/posts/multi-label-text-classification-with-bert-and-pytorch-lightning/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Introducing fastpages](https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html)
+- [Liputan6: Summarization Corpus for Indonesian](https://github.com/fajri91/sum_liputan6)
 
 
 ## Playground

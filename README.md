@@ -19,6 +19,7 @@ Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam meng
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
+- [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848#)
 
 
 

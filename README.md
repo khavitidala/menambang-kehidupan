@@ -1,5 +1,5 @@
 # menambang-kehidupan
-Berisi arsip dan alat tambang yang diperlukan tim kami (DadJokes1412) dalam menghadapi Final Pagelaran Mahasiswa bidang TIK (GEMASTIK) 2021 bidang Penambangan Data. Lomba ini diselenggarakan oleh PusPresNas, Kemdikbud RI.
+Just my bookmark of interesting stuff about Natural Language Processing.
 
 # NLP
 ## Paper

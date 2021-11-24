@@ -32,6 +32,7 @@ Just my bookmark of interesting stuff about Natural Language Processing.
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
+- [Indonesian NLP Resource](https://github.com/kmkurn/id-nlp-resource)
 
 ## Artikel
 - [New pipeline for zero-shot text classification](https://discuss.huggingface.co/t/new-pipeline-for-zero-shot-text-classification/681)
